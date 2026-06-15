@@ -1,0 +1,1 @@
+Worked and designed an optimized route for the solid waste collection and different transportation vehicle within the Prayagraj Smart City initiative. The use of tools like ArcGIS and Google Earth offered valuable insight into optimizing waste management system, making streamline collection and transportation for PSCL effectively in available time duration.
